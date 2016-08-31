@@ -5,6 +5,6 @@
     service_offering= "L"
 
     # Global configturation
-    network = "YOUR_NETWORK"
+    network_id = "YOUR_NETWORK"
     template = "YOUR_TEMPLATE"
     zone = "YOUR_ZONE"
