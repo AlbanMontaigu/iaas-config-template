@@ -1,6 +1,6 @@
 # docker folder
 
-## Desription
+## Description
 
 Contains all docker related extension files.
 
@@ -16,7 +16,7 @@ Basically one host per file that can be called with the command ```dk host FILE_
 
 You can add the files you want as much as you want depending the various host you want to address.
 
-**The file shloud be built like this:**
+**The file should be built like this:**
 
 ```bash
 # ============================================================

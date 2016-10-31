@@ -1,4 +1,7 @@
 
+## 1.12.3 (2016-10-31)
+- UPDATE: switch to version 1.12.3 to be consistent with other tools.
+
 ## 1.12.1f (2016-09-19)
 - FEATURE: Added docker hosts definition sample
 - UPDATE: Changed docker host definition with sh extension for better edition
