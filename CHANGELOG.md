@@ -1,4 +1,7 @@
 
+## 1.13.1 (2017-02-11)
+- UPDATE: switch to version 1.13.1 to be consistent with other tools.
+
 ## 1.13.0 (2017-01-29)
 - UPDATE: switch to version 1.13.0 to be consistent with other tools.
 
