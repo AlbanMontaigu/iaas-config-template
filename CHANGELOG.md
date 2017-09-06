@@ -1,4 +1,7 @@
 
+## 17.06.2-ce (2017-09-06)
+- UPDATE: switch to version 17.06.2-ce to be consistent with other tools.
+
 ## 17.06.1-ce (2017-08-24)
 - UPDATE: switch to version 17.06.1-ce to be consistent with other tools.
 
