@@ -1,6 +1,7 @@
 
 ## 17.09.0-ce (2017-10-06)
 - UPDATE: switch to version 17.09.0-ce to be consistent with other tools.
+- UPDATE: old sb profile removed
 - FEATURE: `fsync` folder added for synchronisation with IaaS feature with `ia fsync`
 
 ## 17.06.2-ce (2017-09-06)
