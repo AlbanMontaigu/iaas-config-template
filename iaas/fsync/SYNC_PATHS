@@ -1,0 +1,3 @@
+# Sub path to sync (compliant with unison configuration format)
+path=MIDDLE
+path=MIDDLEDATA

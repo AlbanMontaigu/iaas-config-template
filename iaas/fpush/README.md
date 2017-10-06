@@ -1,4 +1,4 @@
-# Fpush folder
+# fpush folder
 
 Place here the files you want to be pushed on the IaaS with the command ```ia fpush``` or ```ia cfpush```.
 
