@@ -1,4 +1,7 @@
 
+## 17.09.0-ce (2017-10-09)
+- UPDATE: `fpush` and `fsync` folders updated to take profiles in account
+
 ## 17.09.0-ce (2017-10-06)
 - UPDATE: switch to version 17.09.0-ce to be consistent with other tools.
 - UPDATE: old sb profile removed
