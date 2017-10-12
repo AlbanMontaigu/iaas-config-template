@@ -1,4 +1,7 @@
 
+## 17.09.0-ce (2017-10-12)
+- UPDATE: `cloudstack_instance.tf.inc.m4` changed to `cloudstack_instance.tf.inc.m4` to comply to last amontaigu/terraform:0.10.7 features with m4
+
 ## 17.09.0-ce (2017-10-09)
 - UPDATE: `fpush` and `fsync` folders updated to take profiles in account
 
