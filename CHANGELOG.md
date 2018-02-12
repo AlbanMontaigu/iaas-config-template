@@ -1,4 +1,7 @@
 
+## 17.12.0-ce (2018-02-12)
+- UPDATE: switch to version 17.12.0-ce to be consistent with other tools.
+
 ## 17.09.0-ce (2017-10-12)
 - UPDATE: `cloudstack_instance.tf.inc.m4` changed to `cloudstack_instance.tf.inc.m4` to comply to last amontaigu/terraform:0.10.7 features with m4
 
