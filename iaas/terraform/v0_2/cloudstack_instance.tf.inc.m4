@@ -8,3 +8,10 @@
     network_id = "YOUR_NETWORK"
     template = "YOUR_TEMPLATE"
     zone = "YOUR_ZONE"
+    
+    # How to connect to the VM
+    connection {
+        type     = "ssh"
+        user     = "YOUR_USER"
+        password = "YOUR_PASS"
+    }
