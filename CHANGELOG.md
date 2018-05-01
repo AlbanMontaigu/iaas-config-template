@@ -1,5 +1,8 @@
 
-##  18.03.0-ce (2018-03-30)
+## 18.03.1-ce (2018-03-30)
+- UPDATE: bump to version 18.03.1-ce to be consistent with other tools
+
+## 18.03.0-ce (2018-03-30)
 - UPDATE: bump to version 18.03.0-ce to be consistent with other tools.
 - UPDATE: ssh key removed to switch to user / pass (simplification)
 
